@@ -1,0 +1,43 @@
+{
+  "short_name": "Monopoly",
+  "name": "Monopoly Banker",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "description": "Play Monopoly Banker! Easily keep track of your finances and play together with your friends!",
+  "screenshots": [
+    {
+      "src": "screenshot_1.png",
+      "type": "image/png",
+      "sizes": "1242x2208"
+    },
+    {
+      "src": "screenshot_2.png",
+      "type": "image/png",
+      "sizes": "1242x2208"
+    },
+    {
+      "src": "screenshot_3.png",
+      "type": "image/png",
+      "sizes": "1242x2208"
+    }
+  ]
+}
